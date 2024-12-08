@@ -1,0 +1,3 @@
+Find the flag within this mess...
+but beware, it might not appear as you expect.
+Perhaps the key lies in a ~47 twist.
