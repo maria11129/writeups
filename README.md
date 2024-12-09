@@ -23,14 +23,13 @@ Each challenge folder includes:
 
 #### **#Challenge 2** :
 
-    **>>Challenge Name:** I'm Just a Shark
-
-    >>**Category:** Forensics
-**Description:** Use Wireshark to uncover a hidden flag encrypted with a twist. Focus on the unusual, and solve the mystery!
-
+*     **>>Challenge Name:** I'm Just a Shark
+*     >>**Category:** Forensics
+  **Description:** Use Wireshark to uncover a hidden flag encrypted with a twist. Focus on the unusual, and solve the mystery!
 
 
-[More write-ups will be added as I tackle new challenges!]
+
+*[More write-ups will be added as I tackle new challenges!]*
 
 ---
 
