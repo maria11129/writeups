@@ -1,6 +1,6 @@
-# secAI_CTF_challenges
+# some random ctf writeups
 
-💻 My solutions and detailed writeups for CTF challenges provided by secAI club. The goal is to document solutions in a way that's clear and helpful for others learning about cybersecurity and CTFs.
+💻 My solutions and detailed writeups for CTF challenges . The goal is to document solutions in a way that's clear and helpful for others learning about cybersecurity and CTFs.
 
 ## 📂 Repository Structure
 
